@@ -9,7 +9,7 @@
 ### O que vamos aprender?
 
 * [x] Utilizar os eventos
-* [ ] Disparar eventos
+* [x] Disparar eventos
 * [ ] Ouvir eventos
 * [ ] Executar ações para determinados eventos
 * [ ] Entender como ele é a base para outros módulos
