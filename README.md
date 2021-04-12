@@ -12,4 +12,4 @@
 * [x] Disparar eventos
 * [x] Ouvir eventos
 * [x] Executar ações para determinados eventos
-* [ ] Entender como ele é a base para outros módulos
+* [x] Entender como ele é a base para outros módulos
