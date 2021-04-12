@@ -8,7 +8,7 @@
 
 ### O que vamos aprender?
 
-* [ ] Utilizar os eventos
+* [x] Utilizar os eventos
 * [ ] Disparar eventos
 * [ ] Ouvir eventos
 * [ ] Executar ações para determinados eventos
