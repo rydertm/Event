@@ -10,6 +10,6 @@
 
 * [x] Utilizar os eventos
 * [x] Disparar eventos
-* [ ] Ouvir eventos
-* [ ] Executar ações para determinados eventos
+* [x] Ouvir eventos
+* [x] Executar ações para determinados eventos
 * [ ] Entender como ele é a base para outros módulos
